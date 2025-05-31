@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-const API_KEY = "d3d960bf";
+const API_KEY = "API KEY HERE";
 
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
