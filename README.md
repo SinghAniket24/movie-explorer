@@ -5,12 +5,6 @@ Powered by the OMDb API and styled with Tailwind CSS, featuring smooth animation
 
 ---
 
-## 🚀 Demo
-
-*(Add your live demo link here if you have one)*
-
----
-
 ## 📸 Screenshots
 
 ![Screenshot 1](./Movie_ss/img1.png)  
